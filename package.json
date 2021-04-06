@@ -1,0 +1,25 @@
+{
+  "name": "driver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rtipper/driver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rtipper/driver/issues"
+  },
+  "homepage": "https://github.com/Rtipper/driver#readme",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "socket.io": "^4.0.1",
+    "socket.io-client": "^4.0.1"
+  }
+}
